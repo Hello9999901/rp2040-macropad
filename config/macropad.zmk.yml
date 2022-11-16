@@ -1,0 +1,9 @@
+file_format: "1"
+id: macropad
+name: RP2040-Macropad
+type: shield
+url: https://github.com/Hello9999901/rp2040-macropad
+requires:
+  - pro_micro
+features:
+  - keys

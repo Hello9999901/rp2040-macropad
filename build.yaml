@@ -14,4 +14,4 @@
 ---
 include:
   - board: seeed_xiao_rp2040
-    shield: osprette
+    shield: macropad
