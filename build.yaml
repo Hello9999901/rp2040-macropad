@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: seeeduino_xiao
+  - board: seeed_xiao_rp2040
     shield: osprette
