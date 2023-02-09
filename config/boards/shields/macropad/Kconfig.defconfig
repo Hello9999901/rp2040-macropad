@@ -1,7 +1,7 @@
 if SHIELD_MACROPAD
 
 config ZMK_KEYBOARD_NAME
-    default "macropad"
+    default "EEC RP2040 Macropad"
 
 if ZMK_BACKLIGHT
 
