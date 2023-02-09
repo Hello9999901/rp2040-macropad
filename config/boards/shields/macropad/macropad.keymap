@@ -12,7 +12,9 @@
 
         default_layer {
             bindings = <
-                &kp A
+                &kp 7 &kp 8 &kp 9
+                &kp 4 &kp 5 &kp 6
+                &kp 1 &kp 2 &kp 3
             >;
         };
     };
