@@ -18,8 +18,8 @@
 
     default_transform: keymap_transform_0 {
         compatible = "zmk,matrix-transform";
-        columns = <14>;
-        rows = <6>;
+        columns = <3>;
+        rows = <3>;
         map = <
         RC(0, 0) RC(1, 0) RC(2, 0)
         RC(0, 1) RC(1, 1) RC(2, 1)
