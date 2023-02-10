@@ -7,6 +7,11 @@
         zmk,backlight = &backlight;
     };
 
+    &pwm0 {
+        status = "okay";
+        ch0-pin = <25>;
+    };
+
     backlight: pwmleds {
         compatible = "pwm-leds";
         label = "Backlight LEDs";
